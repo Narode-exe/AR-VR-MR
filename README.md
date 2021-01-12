@@ -1,2 +1,1 @@
-# AR-VR-MR
-This repo has a few projects I did while learning AR/VR technology. 
+# Unity ARFoundation with URP & shader graph( The Portal Gun )

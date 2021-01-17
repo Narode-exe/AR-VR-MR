@@ -1,5 +1,5 @@
 # Unity ARFoundation with URP & shader graph( The Portal Gun )
-The portal gun from sci-fi catoon series Rick & Morty in Augmented Reality.
+The portal gun from sci-fi cartoon series Rick & Morty in Augmented Reality.
 ### Overview & Agenda:
 Agenda was to learn URP and shader graph in Unity. I took inspiration from the famous Sci-Fi cartoon series Rick & Morty and build
 the portal using ARFoundation.

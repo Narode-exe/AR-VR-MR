@@ -7,6 +7,8 @@ the portal using ARFoundation.
 Portals allow travel between two different locations. Usually, these locations exist in the same universe. The only groups that have been known to use intergalactic portal technology are the Ricks and the Galactic Federation.
 ![rnmgif](https://user-images.githubusercontent.com/77329786/104848577-a6a0cb00-590b-11eb-8cc8-43eb9f9cf312.gif)
 ### Technologies used:
+Unity 2019.4.10f1
+
 ARFoundation(3.1.3)
 
 Universal render pipeline with shader graphs.
